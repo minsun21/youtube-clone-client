@@ -18,8 +18,4 @@ index.html, index.css
 
 1. Header
 
-1) icons -> ok
-2) img -> ok
-3) button 
-3) dropdown
-3) sidebar
+- Sidebar
